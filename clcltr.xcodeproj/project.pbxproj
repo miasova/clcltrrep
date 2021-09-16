@@ -59,6 +59,8 @@
 				CEDDAC1426F200C500782A5C /* AppDelegate.swift */,
 				CEDDAC1626F200C500782A5C /* SceneDelegate.swift */,
 				CEDDAC1826F200C500782A5C /* ContentView.swift */,
+				CEDDAC2B26F209D700782A5C /* New Group1 */,
+				CEDDAC2926F2097C00782A5C /* New Group */,
 				CEDDAC1A26F200C600782A5C /* Assets.xcassets */,
 				CEDDAC1F26F200C600782A5C /* LaunchScreen.storyboard */,
 				CEDDAC2226F200C600782A5C /* Info.plist */,
@@ -73,6 +75,29 @@
 				CEDDAC1D26F200C600782A5C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CEDDAC2926F2097C00782A5C /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				CEDDAC2A26F2098000782A5C /* New Group */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		CEDDAC2A26F2098000782A5C /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+			tabWidth = 4;
+		};
+		CEDDAC2B26F209D700782A5C /* New Group1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group1";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
